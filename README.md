@@ -1,2 +1,2 @@
 # mergepdf
-ez python-based pdf merger that I use for collecting hw
+ez python-based pdf merger that i use for formatting hw assignments 
